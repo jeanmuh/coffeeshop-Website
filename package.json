@@ -12,6 +12,7 @@
   "author": "Jean Claude MUHIRE",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.14.2",
     "parcel": "^2.14.2"
   },
   "dependencies": {
