@@ -1,0 +1,22 @@
+body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+    color: #333;
+}
+
+header {
+    background-color: #6f4f37; /* Coffee Brown */
+    color: white;
+}
+
+footer {
+    background-color: #3e2723; /* Dark Brown */
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+}
